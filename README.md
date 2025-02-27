@@ -42,15 +42,14 @@ This tool automates Facebook actions:
 3️⃣ The tool will **automatically perform actions** on Facebook.  
 4️⃣ Press **CTRL + C** anytime to **exit safely**.  
 
-## 🔐 Security & Protection  
-✔ **Script is encrypted** – Cannot be modified or cracked.  
+## 🔐 Security & Protection 
 ✔ **License: MIT** – Open-source but **credits must be given**.  
 ✔ **Session cookies are saved** for seamless login.  
 
 ## 🛠️ Developer Information  
 👨‍💻 **Developer:** CEO H2I CODER (@hiden_25)  
 📅 **Release Date:** 2025  
-🔗 **GitHub Repo:** [Your GitHub Link]  
+🔗 **GitHub Repo:** [https://github.com/ceo-developer/FB-Liker-Viewer]  
 
 ## 📜 License  
 This project is licensed under the **MIT License** – See the [LICENSE](LICENSE) file for details.  
